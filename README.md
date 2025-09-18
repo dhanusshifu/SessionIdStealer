@@ -31,8 +31,8 @@ This tool automates the process of extracting the Instagram Session ID by loggin
 
 →git clone https://github.com/dhanusshifu/SessionIdStealer.git
 
-→cd insta-session-extractor
+→cd SessionIdStealer
 
 →pip install -r requirements.txt
 
-→py SessionId.py
+→python SessionIdStealer.py
